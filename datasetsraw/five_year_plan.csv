@@ -1,0 +1,31 @@
+year,data_type,revenue_stream,revenue_aed_000s,total_revenue_aed_000s,gross_profit_aed_000s,gross_margin_pct,ebitda_aed_000s,ebitda_margin_pct,net_profit_aed_000s,net_margin_pct,capex_aed_000s,headcount,strategic_theme
+2024,Actual,Vehicle Servicing,9500,18600,8244,44.3,3302,17.8,2743,14.7,1200,42,Base Year – Operational Stabilisation
+2024,Actual,Parts & Accessories,3200,18600,8244,44.3,3302,17.8,2743,14.7,1200,42,Base Year – Operational Stabilisation
+2024,Actual,Fleet Contracts,4800,18600,8244,44.3,3302,17.8,2743,14.7,1200,42,Base Year – Operational Stabilisation
+2024,Actual,Detailing & Cosmetics,1100,18600,8244,44.3,3302,17.8,2743,14.7,1200,42,Base Year – Operational Stabilisation
+2024,Actual,EV Servicing,0,18600,8244,44.3,3302,17.8,2743,14.7,1200,42,Base Year – Operational Stabilisation
+2024,Actual,Franchise / Licensing,0,18600,8244,44.3,3302,17.8,2743,14.7,1200,42,Base Year – Operational Stabilisation
+2025,Projection,Vehicle Servicing,10475,20589,9685,47.0,4294,20.9,3296,16.0,2800,50,Efficiency & Digital Transformation
+2025,Projection,Parts & Accessories,3420,20589,9685,47.0,4294,20.9,3296,16.0,2800,50,Efficiency & Digital Transformation
+2025,Projection,Fleet Contracts,5479,20589,9685,47.0,4294,20.9,3296,16.0,2800,50,Efficiency & Digital Transformation
+2025,Projection,Detailing & Cosmetics,1228,20589,9685,47.0,4294,20.9,3296,16.0,2800,50,Efficiency & Digital Transformation
+2025,Projection,EV Servicing,-17,20589,9685,47.0,4294,20.9,3296,16.0,2800,50,Efficiency & Digital Transformation
+2025,Projection,Franchise / Licensing,4,20589,9685,47.0,4294,20.9,3296,16.0,2800,50,Efficiency & Digital Transformation
+2026,Projection,Vehicle Servicing,12770,25021,11304,45.2,4876,19.5,3018,12.1,6500,68,Geographic Expansion (RAK Branch) + EV Readiness
+2026,Projection,Parts & Accessories,4057,25021,11304,45.2,4876,19.5,3018,12.1,6500,68,Geographic Expansion (RAK Branch) + EV Readiness
+2026,Projection,Fleet Contracts,6882,25021,11304,45.2,4876,19.5,3018,12.1,6500,68,Geographic Expansion (RAK Branch) + EV Readiness
+2026,Projection,Detailing & Cosmetics,1384,25021,11304,45.2,4876,19.5,3018,12.1,6500,68,Geographic Expansion (RAK Branch) + EV Readiness
+2026,Projection,EV Servicing,-54,25021,11304,45.2,4876,19.5,3018,12.1,6500,68,Geographic Expansion (RAK Branch) + EV Readiness
+2026,Projection,Franchise / Licensing,-18,25021,11304,45.2,4876,19.5,3018,12.1,6500,68,Geographic Expansion (RAK Branch) + EV Readiness
+2027,Projection,Vehicle Servicing,14514,28490,13599,47.7,5905,20.7,4893,17.2,2200,75,Franchise Model Pilot + Margin Expansion
+2027,Projection,Parts & Accessories,4569,28490,13599,47.7,5905,20.7,4893,17.2,2200,75,Franchise Model Pilot + Margin Expansion
+2027,Projection,Fleet Contracts,8116,28490,13599,47.7,5905,20.7,4893,17.2,2200,75,Franchise Model Pilot + Margin Expansion
+2027,Projection,Detailing & Cosmetics,1490,28490,13599,47.7,5905,20.7,4893,17.2,2200,75,Franchise Model Pilot + Margin Expansion
+2027,Projection,EV Servicing,-142,28490,13599,47.7,5905,20.7,4893,17.2,2200,75,Franchise Model Pilot + Margin Expansion
+2027,Projection,Franchise / Licensing,-57,28490,13599,47.7,5905,20.7,4893,17.2,2200,75,Franchise Model Pilot + Margin Expansion
+2028,Projection,Vehicle Servicing,16212,31811,15223,47.9,6542,20.6,5560,17.5,1800,82,Market Leadership & Regional Scalability
+2028,Projection,Parts & Accessories,5019,31811,15223,47.9,6542,20.6,5560,17.5,1800,82,Market Leadership & Regional Scalability
+2028,Projection,Fleet Contracts,9320,31811,15223,47.9,6542,20.6,5560,17.5,1800,82,Market Leadership & Regional Scalability
+2028,Projection,Detailing & Cosmetics,1574,31811,15223,47.9,6542,20.6,5560,17.5,1800,82,Market Leadership & Regional Scalability
+2028,Projection,EV Servicing,-223,31811,15223,47.9,6542,20.6,5560,17.5,1800,82,Market Leadership & Regional Scalability
+2028,Projection,Franchise / Licensing,-91,31811,15223,47.9,6542,20.6,5560,17.5,1800,82,Market Leadership & Regional Scalability
