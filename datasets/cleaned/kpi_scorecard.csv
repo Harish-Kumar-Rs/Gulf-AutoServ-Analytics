@@ -1,0 +1,37 @@
+composite_key,month,quarter,branch,jobs_target,jobs_completed,completion_rate_pct,technician_count,available_hours,billed_hours,utilization_pct,csat_score,avg_wait_time_min,first_time_fix_rate,return_customer_rate,revenue_per_job_aed,parts_to_labour_ratio,complaints_logged,csat_band
+2024-01|Dubai-Al Quoz,2024-01,Q1,Dubai-Al Quoz,480,490,102.1,12,2496,2268,90.9,4.29,46,0.907,0.434,387.53,0.408,2,Good
+2024-02|Dubai-Al Quoz,2024-02,Q1,Dubai-Al Quoz,480,495,103.1,12,2496,2308,92.5,4.16,49,0.889,0.423,366.82,0.348,5,Good
+2024-03|Dubai-Al Quoz,2024-03,Q1,Dubai-Al Quoz,480,424,88.3,12,2496,2147,86.0,4.28,41,0.816,0.459,408.28,0.3,7,Good
+2024-04|Dubai-Al Quoz,2024-04,Q2,Dubai-Al Quoz,480,397,82.7,12,2496,2033,81.5,4.41,45,0.884,0.423,388.31,0.321,4,Good
+2024-05|Dubai-Al Quoz,2024-05,Q2,Dubai-Al Quoz,480,456,95.0,12,2496,2367,94.8,4.21,45,0.874,0.458,368.33,0.329,9,Good
+2024-06|Dubai-Al Quoz,2024-06,Q2,Dubai-Al Quoz,480,450,93.8,12,2496,2267,90.8,4.46,52,0.879,0.449,369.27,0.414,5,Good
+2024-07|Dubai-Al Quoz,2024-07,Q3,Dubai-Al Quoz,480,385,80.2,12,2496,1966,78.8,4.13,44,0.843,0.482,402.18,0.444,5,Good
+2024-08|Dubai-Al Quoz,2024-08,Q3,Dubai-Al Quoz,480,354,73.8,12,2496,1818,72.8,4.06,49,0.824,0.435,381.16,0.305,7,Good
+2024-09|Dubai-Al Quoz,2024-09,Q3,Dubai-Al Quoz,480,442,92.1,12,2496,2445,98.0,4.34,41,0.841,0.464,375.56,0.315,9,Good
+2024-10|Dubai-Al Quoz,2024-10,Q4,Dubai-Al Quoz,480,466,97.1,12,2496,2245,89.9,4.19,41,0.865,0.442,407.9,0.308,6,Good
+2024-11|Dubai-Al Quoz,2024-11,Q4,Dubai-Al Quoz,480,449,93.5,12,2496,2449,98.1,4.16,43,0.891,0.469,376.62,0.437,5,Good
+2024-12|Dubai-Al Quoz,2024-12,Q4,Dubai-Al Quoz,480,484,100.8,12,2496,2297,92.0,4.26,43,0.855,0.477,407.28,0.44,6,Good
+2024-01|Abu Dhabi-Mussafah,2024-01,Q1,Abu Dhabi-Mussafah,340,325,95.6,9,1872,1693,90.4,4.22,41,0.86,0.381,354.57,0.325,4,Good
+2024-02|Abu Dhabi-Mussafah,2024-02,Q1,Abu Dhabi-Mussafah,340,355,104.4,9,1872,1697,90.7,4.18,47,0.832,0.374,381.87,0.332,5,Good
+2024-03|Abu Dhabi-Mussafah,2024-03,Q1,Abu Dhabi-Mussafah,340,281,82.6,9,1872,1594,85.1,3.95,51,0.835,0.389,357.37,0.415,3,Acceptable
+2024-04|Abu Dhabi-Mussafah,2024-04,Q2,Abu Dhabi-Mussafah,340,290,85.3,9,1872,1614,86.2,4.16,37,0.839,0.352,380.61,0.375,3,Good
+2024-05|Abu Dhabi-Mussafah,2024-05,Q2,Abu Dhabi-Mussafah,340,341,100.3,9,1872,1843,98.5,4.06,44,0.831,0.352,350.5,0.355,3,Good
+2024-06|Abu Dhabi-Mussafah,2024-06,Q2,Abu Dhabi-Mussafah,340,315,92.6,9,1872,1744,93.2,4.12,50,0.849,0.404,361.1,0.427,7,Good
+2024-07|Abu Dhabi-Mussafah,2024-07,Q3,Abu Dhabi-Mussafah,340,275,80.9,9,1872,1455,77.7,3.95,46,0.77,0.38,382.17,0.3,3,Acceptable
+2024-08|Abu Dhabi-Mussafah,2024-08,Q3,Abu Dhabi-Mussafah,340,259,76.2,9,1872,1361,72.7,3.95,55,0.816,0.371,359.53,0.43,3,Acceptable
+2024-09|Abu Dhabi-Mussafah,2024-09,Q3,Abu Dhabi-Mussafah,340,325,95.6,9,1872,1728,92.3,4.05,47,0.819,0.364,386.5,0.43,8,Good
+2024-10|Abu Dhabi-Mussafah,2024-10,Q4,Abu Dhabi-Mussafah,340,327,96.2,9,1872,1749,93.4,4.21,49,0.822,0.414,366.7,0.37,2,Good
+2024-11|Abu Dhabi-Mussafah,2024-11,Q4,Abu Dhabi-Mussafah,340,317,93.2,9,1872,1676,89.5,3.84,46,0.845,0.392,359.63,0.426,4,Acceptable
+2024-12|Abu Dhabi-Mussafah,2024-12,Q4,Abu Dhabi-Mussafah,340,356,104.7,9,1872,1674,89.4,4.07,47,0.828,0.436,405.96,0.393,2,Good
+2024-01|Sharjah-Industrial,2024-01,Q1,Sharjah-Industrial,240,232,96.7,7,1456,1333,91.6,3.77,64,0.799,0.288,322.14,0.408,3,Acceptable
+2024-02|Sharjah-Industrial,2024-02,Q1,Sharjah-Industrial,240,242,100.8,7,1456,1374,94.4,3.93,48,0.814,0.31,324.93,0.419,4,Acceptable
+2024-03|Sharjah-Industrial,2024-03,Q1,Sharjah-Industrial,240,197,82.1,7,1456,1135,78.0,4.02,47,0.783,0.316,364.77,0.351,4,Good
+2024-04|Sharjah-Industrial,2024-04,Q2,Sharjah-Industrial,240,215,89.6,7,1456,1274,87.5,3.88,50,0.774,0.29,363.54,0.439,2,Acceptable
+2024-05|Sharjah-Industrial,2024-05,Q2,Sharjah-Industrial,240,241,100.4,7,1456,1400,96.2,3.88,56,0.817,0.323,331.78,0.303,5,Acceptable
+2024-06|Sharjah-Industrial,2024-06,Q2,Sharjah-Industrial,240,245,102.1,7,1456,1344,92.3,3.92,48,0.814,0.368,340.03,0.393,6,Acceptable
+2024-07|Sharjah-Industrial,2024-07,Q3,Sharjah-Industrial,240,179,74.6,7,1456,1054,72.4,3.8,42,0.771,0.348,367.62,0.405,1,Acceptable
+2024-08|Sharjah-Industrial,2024-08,Q3,Sharjah-Industrial,240,175,72.9,7,1456,1078,74.0,3.71,54,0.749,0.323,351.19,0.32,4,Acceptable
+2024-09|Sharjah-Industrial,2024-09,Q3,Sharjah-Industrial,240,220,91.7,7,1456,1317,90.5,4.0,44,0.826,0.328,350.66,0.447,5,Good
+2024-10|Sharjah-Industrial,2024-10,Q4,Sharjah-Industrial,240,227,94.6,7,1456,1342,92.2,3.78,51,0.792,0.361,367.81,0.401,3,Acceptable
+2024-11|Sharjah-Industrial,2024-11,Q4,Sharjah-Industrial,240,224,93.3,7,1456,1359,93.3,3.71,49,0.826,0.358,359.05,0.338,2,Acceptable
+2024-12|Sharjah-Industrial,2024-12,Q4,Sharjah-Industrial,240,236,98.3,7,1456,1437,98.7,3.82,43,0.802,0.325,336.68,0.302,1,Acceptable

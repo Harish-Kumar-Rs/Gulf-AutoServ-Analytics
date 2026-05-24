@@ -1,178 +1,178 @@
 month,branch,category,budget_amount_aed,currency,fiscal_year,quarter
-2024-01,Dubai-Al Quoz,Revenue,336000.0,AED,2024,Q1
-2024-02,Dubai-Al Quoz,Revenue,384000.0,AED,2024,Q1
-2024-03,Dubai-Al Quoz,Revenue,480000.0,AED,2024,Q1
-2024-04,Dubai-Al Quoz,Revenue,480000.0,AED,2024,Q2
-2024-05,Dubai-Al Quoz,Revenue,432000.0,AED,2024,Q2
-2024-06,Dubai-Al Quoz,Revenue,384000.0,AED,2024,Q2
+2024-01,Dubai-Al Quoz,Revenue,336000,AED,2024,Q1
+2024-02,Dubai-Al Quoz,Revenue,384000,AED,2024,Q1
+2024-03,Dubai-Al Quoz,Revenue,480000,AED,2024,Q1
+2024-04,Dubai-Al Quoz,Revenue,480000,AED,2024,Q2
+2024-05,Dubai-Al Quoz,Revenue,432000,AED,2024,Q2
+2024-06,Dubai-Al Quoz,Revenue,384000,AED,2024,Q2
 2024-07,Dubai-Al Quoz,Revenue,349855.36,AED,2024,Q3
 2024-08,Dubai-Al Quoz,Revenue,355663.2,AED,2024,Q3
 2024-09,Dubai-Al Quoz,Revenue,403952.57,AED,2024,Q3
 2024-10,Dubai-Al Quoz,Revenue,452718.61,AED,2024,Q4
-2024-11,Dubai-Al Quoz,Revenue,446982.0,AED,2024,Q4
+2024-11,Dubai-Al Quoz,Revenue,446982,AED,2024,Q4
 2024-12,Dubai-Al Quoz,Revenue,397317.06,AED,2024,Q4
-2024-01,Dubai-Al Quoz,Labour Cost,100800.0,AED,2024,Q1
-2024-02,Dubai-Al Quoz,Labour Cost,115200.0,AED,2024,Q1
-2024-03,Dubai-Al Quoz,Labour Cost,129600.0,AED,2024,Q1
-2024-04,Dubai-Al Quoz,Labour Cost,129600.0,AED,2024,Q2
-2024-05,Dubai-Al Quoz,Labour Cost,129600.0,AED,2024,Q2
-2024-06,Dubai-Al Quoz,Labour Cost,129600.0,AED,2024,Q2
+2024-01,Dubai-Al Quoz,Labour Cost,100800,AED,2024,Q1
+2024-02,Dubai-Al Quoz,Labour Cost,115200,AED,2024,Q1
+2024-03,Dubai-Al Quoz,Labour Cost,129600,AED,2024,Q1
+2024-04,Dubai-Al Quoz,Labour Cost,129600,AED,2024,Q2
+2024-05,Dubai-Al Quoz,Labour Cost,129600,AED,2024,Q2
+2024-06,Dubai-Al Quoz,Labour Cost,129600,AED,2024,Q2
 2024-07,Dubai-Al Quoz,Labour Cost,148570.92,AED,2024,Q3
 2024-08,Dubai-Al Quoz,Labour Cost,152061.88,AED,2024,Q3
 2024-09,Dubai-Al Quoz,Labour Cost,120733.45,AED,2024,Q3
 2024-10,Dubai-Al Quoz,Labour Cost,121103.1,AED,2024,Q4
 2024-11,Dubai-Al Quoz,Labour Cost,103886.25,AED,2024,Q4
 2024-12,Dubai-Al Quoz,Labour Cost,91506.01,AED,2024,Q4
-2024-01,Dubai-Al Quoz,Parts & Materials,75600.0,AED,2024,Q1
-2024-02,Dubai-Al Quoz,Parts & Materials,86400.0,AED,2024,Q1
-2024-03,Dubai-Al Quoz,Parts & Materials,97200.0,AED,2024,Q1
-2024-04,Dubai-Al Quoz,Parts & Materials,97200.0,AED,2024,Q2
-2024-05,Dubai-Al Quoz,Parts & Materials,97200.0,AED,2024,Q2
-2024-06,Dubai-Al Quoz,Parts & Materials,97200.0,AED,2024,Q2
+2024-01,Dubai-Al Quoz,Parts & Materials,75600,AED,2024,Q1
+2024-02,Dubai-Al Quoz,Parts & Materials,86400,AED,2024,Q1
+2024-03,Dubai-Al Quoz,Parts & Materials,97200,AED,2024,Q1
+2024-04,Dubai-Al Quoz,Parts & Materials,97200,AED,2024,Q2
+2024-05,Dubai-Al Quoz,Parts & Materials,97200,AED,2024,Q2
+2024-06,Dubai-Al Quoz,Parts & Materials,97200,AED,2024,Q2
 2024-07,Dubai-Al Quoz,Parts & Materials,113937.11,AED,2024,Q3
 2024-08,Dubai-Al Quoz,Parts & Materials,111927.98,AED,2024,Q3
 2024-09,Dubai-Al Quoz,Parts & Materials,89463.29,AED,2024,Q3
 2024-10,Dubai-Al Quoz,Parts & Materials,89467.38,AED,2024,Q4
 2024-11,Dubai-Al Quoz,Parts & Materials,78558.02,AED,2024,Q4
 2024-12,Dubai-Al Quoz,Parts & Materials,67764.13,AED,2024,Q4
-2024-01,Dubai-Al Quoz,Overhead,50000.0,AED,2024,Q1
-2024-02,Dubai-Al Quoz,Overhead,50000.0,AED,2024,Q1
-2024-03,Dubai-Al Quoz,Overhead,50000.0,AED,2024,Q1
-2024-04,Dubai-Al Quoz,Overhead,50000.0,AED,2024,Q2
-2024-05,Dubai-Al Quoz,Overhead,50000.0,AED,2024,Q2
-2024-06,Dubai-Al Quoz,Overhead,50000.0,AED,2024,Q2
+2024-01,Dubai-Al Quoz,Overhead,50000,AED,2024,Q1
+2024-02,Dubai-Al Quoz,Overhead,50000,AED,2024,Q1
+2024-03,Dubai-Al Quoz,Overhead,50000,AED,2024,Q1
+2024-04,Dubai-Al Quoz,Overhead,50000,AED,2024,Q2
+2024-05,Dubai-Al Quoz,Overhead,50000,AED,2024,Q2
+2024-06,Dubai-Al Quoz,Overhead,50000,AED,2024,Q2
 2024-07,Dubai-Al Quoz,Overhead,52147.92,AED,2024,Q3
 2024-08,Dubai-Al Quoz,Overhead,51936.84,AED,2024,Q3
 2024-09,Dubai-Al Quoz,Overhead,52417.78,AED,2024,Q3
 2024-10,Dubai-Al Quoz,Overhead,51709.24,AED,2024,Q4
 2024-11,Dubai-Al Quoz,Overhead,51938.22,AED,2024,Q4
 2024-12,Dubai-Al Quoz,Overhead,52049.54,AED,2024,Q4
-2024-01,Dubai-Al Quoz,Marketing,12000.0,AED,2024,Q1
-2024-02,Dubai-Al Quoz,Marketing,14400.0,AED,2024,Q1
-2024-03,Dubai-Al Quoz,Marketing,28800.0,AED,2024,Q1
-2024-04,Dubai-Al Quoz,Marketing,24000.0,AED,2024,Q2
-2024-05,Dubai-Al Quoz,Marketing,19200.0,AED,2024,Q2
-2024-06,Dubai-Al Quoz,Marketing,16800.0,AED,2024,Q2
+2024-01,Dubai-Al Quoz,Marketing,12000,AED,2024,Q1
+2024-02,Dubai-Al Quoz,Marketing,14400,AED,2024,Q1
+2024-03,Dubai-Al Quoz,Marketing,28800,AED,2024,Q1
+2024-04,Dubai-Al Quoz,Marketing,24000,AED,2024,Q2
+2024-05,Dubai-Al Quoz,Marketing,19200,AED,2024,Q2
+2024-06,Dubai-Al Quoz,Marketing,16800,AED,2024,Q2
 2024-07,Dubai-Al Quoz,Marketing,15029.02,AED,2024,Q3
 2024-08,Dubai-Al Quoz,Marketing,15171.2,AED,2024,Q3
 2024-09,Dubai-Al Quoz,Marketing,24863.77,AED,2024,Q3
 2024-10,Dubai-Al Quoz,Marketing,30108.3,AED,2024,Q4
 2024-11,Dubai-Al Quoz,Marketing,25146.54,AED,2024,Q4
 2024-12,Dubai-Al Quoz,Marketing,19802.76,AED,2024,Q4
-2024-01,Abu Dhabi-Mussafah,Revenue,262080.0,AED,2024,Q1
-2024-02,Abu Dhabi-Mussafah,Revenue,299520.0,AED,2024,Q1
-2024-03,Abu Dhabi-Mussafah,Revenue,374400.0,AED,2024,Q1
-2024-04,Abu Dhabi-Mussafah,Revenue,374400.0,AED,2024,Q2
-2024-05,Abu Dhabi-Mussafah,Revenue,336960.0,AED,2024,Q2
-2024-06,Abu Dhabi-Mussafah,Revenue,299520.0,AED,2024,Q2
+2024-01,Abu Dhabi-Mussafah,Revenue,262080,AED,2024,Q1
+2024-02,Abu Dhabi-Mussafah,Revenue,299520,AED,2024,Q1
+2024-03,Abu Dhabi-Mussafah,Revenue,374400,AED,2024,Q1
+2024-04,Abu Dhabi-Mussafah,Revenue,374400,AED,2024,Q2
+2024-05,Abu Dhabi-Mussafah,Revenue,336960,AED,2024,Q2
+2024-06,Abu Dhabi-Mussafah,Revenue,299520,AED,2024,Q2
 2024-07,Abu Dhabi-Mussafah,Revenue,274719.16,AED,2024,Q3
 2024-08,Abu Dhabi-Mussafah,Revenue,271283.13,AED,2024,Q3
 2024-09,Abu Dhabi-Mussafah,Revenue,309090.13,AED,2024,Q3
 2024-10,Abu Dhabi-Mussafah,Revenue,356660.89,AED,2024,Q4
 2024-11,Abu Dhabi-Mussafah,Revenue,356830.18,AED,2024,Q4
 2024-12,Abu Dhabi-Mussafah,Revenue,315769.54,AED,2024,Q4
-2024-01,Abu Dhabi-Mussafah,Labour Cost,78624.0,AED,2024,Q1
-2024-02,Abu Dhabi-Mussafah,Labour Cost,89856.0,AED,2024,Q1
-2024-03,Abu Dhabi-Mussafah,Labour Cost,101088.0,AED,2024,Q1
-2024-04,Abu Dhabi-Mussafah,Labour Cost,101088.0,AED,2024,Q2
-2024-05,Abu Dhabi-Mussafah,Labour Cost,101088.0,AED,2024,Q2
-2024-06,Abu Dhabi-Mussafah,Labour Cost,101088.0,AED,2024,Q2
+2024-01,Abu Dhabi-Mussafah,Labour Cost,78624,AED,2024,Q1
+2024-02,Abu Dhabi-Mussafah,Labour Cost,89856,AED,2024,Q1
+2024-03,Abu Dhabi-Mussafah,Labour Cost,101088,AED,2024,Q1
+2024-04,Abu Dhabi-Mussafah,Labour Cost,101088,AED,2024,Q2
+2024-05,Abu Dhabi-Mussafah,Labour Cost,101088,AED,2024,Q2
+2024-06,Abu Dhabi-Mussafah,Labour Cost,101088,AED,2024,Q2
 2024-07,Abu Dhabi-Mussafah,Labour Cost,116716.03,AED,2024,Q3
 2024-08,Abu Dhabi-Mussafah,Labour Cost,116018.72,AED,2024,Q3
 2024-09,Abu Dhabi-Mussafah,Labour Cost,94396.15,AED,2024,Q3
 2024-10,Abu Dhabi-Mussafah,Labour Cost,93738.19,AED,2024,Q4
 2024-11,Abu Dhabi-Mussafah,Labour Cost,81270.57,AED,2024,Q4
 2024-12,Abu Dhabi-Mussafah,Labour Cost,70414.89,AED,2024,Q4
-2024-01,Abu Dhabi-Mussafah,Parts & Materials,58968.0,AED,2024,Q1
-2024-02,Abu Dhabi-Mussafah,Parts & Materials,67392.0,AED,2024,Q1
-2024-03,Abu Dhabi-Mussafah,Parts & Materials,75816.0,AED,2024,Q1
-2024-04,Abu Dhabi-Mussafah,Parts & Materials,75816.0,AED,2024,Q2
-2024-05,Abu Dhabi-Mussafah,Parts & Materials,75816.0,AED,2024,Q2
-2024-06,Abu Dhabi-Mussafah,Parts & Materials,75816.0,AED,2024,Q2
+2024-01,Abu Dhabi-Mussafah,Parts & Materials,58968,AED,2024,Q1
+2024-02,Abu Dhabi-Mussafah,Parts & Materials,67392,AED,2024,Q1
+2024-03,Abu Dhabi-Mussafah,Parts & Materials,75816,AED,2024,Q1
+2024-04,Abu Dhabi-Mussafah,Parts & Materials,75816,AED,2024,Q2
+2024-05,Abu Dhabi-Mussafah,Parts & Materials,75816,AED,2024,Q2
+2024-06,Abu Dhabi-Mussafah,Parts & Materials,75816,AED,2024,Q2
 2024-07,Abu Dhabi-Mussafah,Parts & Materials,86854.11,AED,2024,Q3
 2024-08,Abu Dhabi-Mussafah,Parts & Materials,89065.23,AED,2024,Q3
 2024-09,Abu Dhabi-Mussafah,Parts & Materials,69936.95,AED,2024,Q3
 2024-10,Abu Dhabi-Mussafah,Parts & Materials,70753.22,AED,2024,Q4
 2024-11,Abu Dhabi-Mussafah,Parts & Materials,61288.47,AED,2024,Q4
 2024-12,Abu Dhabi-Mussafah,Parts & Materials,52848.91,AED,2024,Q4
-2024-01,Abu Dhabi-Mussafah,Overhead,39000.0,AED,2024,Q1
-2024-02,Abu Dhabi-Mussafah,Overhead,39000.0,AED,2024,Q1
-2024-03,Abu Dhabi-Mussafah,Overhead,39000.0,AED,2024,Q1
-2024-04,Abu Dhabi-Mussafah,Overhead,39000.0,AED,2024,Q2
-2024-05,Abu Dhabi-Mussafah,Overhead,39000.0,AED,2024,Q2
-2024-06,Abu Dhabi-Mussafah,Overhead,39000.0,AED,2024,Q2
+2024-01,Abu Dhabi-Mussafah,Overhead,39000,AED,2024,Q1
+2024-02,Abu Dhabi-Mussafah,Overhead,39000,AED,2024,Q1
+2024-03,Abu Dhabi-Mussafah,Overhead,39000,AED,2024,Q1
+2024-04,Abu Dhabi-Mussafah,Overhead,39000,AED,2024,Q2
+2024-05,Abu Dhabi-Mussafah,Overhead,39000,AED,2024,Q2
+2024-06,Abu Dhabi-Mussafah,Overhead,39000,AED,2024,Q2
 2024-07,Abu Dhabi-Mussafah,Overhead,40809.65,AED,2024,Q3
 2024-08,Abu Dhabi-Mussafah,Overhead,40386.28,AED,2024,Q3
 2024-09,Abu Dhabi-Mussafah,Overhead,41304.41,AED,2024,Q3
 2024-10,Abu Dhabi-Mussafah,Overhead,41076.91,AED,2024,Q4
 2024-11,Abu Dhabi-Mussafah,Overhead,41269.21,AED,2024,Q4
 2024-12,Abu Dhabi-Mussafah,Overhead,41216.95,AED,2024,Q4
-2024-01,Abu Dhabi-Mussafah,Marketing,9360.0,AED,2024,Q1
-2024-02,Abu Dhabi-Mussafah,Marketing,11232.0,AED,2024,Q1
-2024-03,Abu Dhabi-Mussafah,Marketing,22464.0,AED,2024,Q1
-2024-04,Abu Dhabi-Mussafah,Marketing,18720.0,AED,2024,Q2
-2024-05,Abu Dhabi-Mussafah,Marketing,14976.0,AED,2024,Q2
-2024-06,Abu Dhabi-Mussafah,Marketing,13104.0,AED,2024,Q2
+2024-01,Abu Dhabi-Mussafah,Marketing,9360,AED,2024,Q1
+2024-02,Abu Dhabi-Mussafah,Marketing,11232,AED,2024,Q1
+2024-03,Abu Dhabi-Mussafah,Marketing,22464,AED,2024,Q1
+2024-04,Abu Dhabi-Mussafah,Marketing,18720,AED,2024,Q2
+2024-05,Abu Dhabi-Mussafah,Marketing,14976,AED,2024,Q2
+2024-06,Abu Dhabi-Mussafah,Marketing,13104,AED,2024,Q2
 2024-07,Abu Dhabi-Mussafah,Marketing,11770.43,AED,2024,Q3
 2024-08,Abu Dhabi-Mussafah,Marketing,11879.59,AED,2024,Q3
 2024-09,Abu Dhabi-Mussafah,Marketing,19331.3,AED,2024,Q3
-2024-10,Abu Dhabi-Mussafah,Marketing,23270.0,AED,2024,Q4
-2024-11,Abu Dhabi-Mussafah,Marketing,19307.0,AED,2024,Q4
+2024-10,Abu Dhabi-Mussafah,Marketing,23270,AED,2024,Q4
+2024-11,Abu Dhabi-Mussafah,Marketing,19307,AED,2024,Q4
 2024-12,Abu Dhabi-Mussafah,Marketing,15571.44,AED,2024,Q4
-2024-01,Sharjah-Industrial,Revenue,184800.0,AED,2024,Q1
-2024-02,Sharjah-Industrial,Revenue,211200.0,AED,2024,Q1
-2024-03,Sharjah-Industrial,Revenue,264000.0,AED,2024,Q1
-2024-04,Sharjah-Industrial,Revenue,264000.0,AED,2024,Q2
-2024-05,Sharjah-Industrial,Revenue,237600.0,AED,2024,Q2
-2024-06,Sharjah-Industrial,Revenue,211200.0,AED,2024,Q2
+2024-01,Sharjah-Industrial,Revenue,184800,AED,2024,Q1
+2024-02,Sharjah-Industrial,Revenue,211200,AED,2024,Q1
+2024-03,Sharjah-Industrial,Revenue,264000,AED,2024,Q1
+2024-04,Sharjah-Industrial,Revenue,264000,AED,2024,Q2
+2024-05,Sharjah-Industrial,Revenue,237600,AED,2024,Q2
+2024-06,Sharjah-Industrial,Revenue,211200,AED,2024,Q2
 2024-07,Sharjah-Industrial,Revenue,192498.83,AED,2024,Q3
 2024-08,Sharjah-Industrial,Revenue,191848.36,AED,2024,Q3
 2024-09,Sharjah-Industrial,Revenue,222786.88,AED,2024,Q3
 2024-10,Sharjah-Industrial,Revenue,247270.94,AED,2024,Q4
 2024-11,Sharjah-Industrial,Revenue,246730.5,AED,2024,Q4
 2024-12,Sharjah-Industrial,Revenue,220974.52,AED,2024,Q4
-2024-01,Sharjah-Industrial,Labour Cost,55440.0,AED,2024,Q1
-2024-02,Sharjah-Industrial,Labour Cost,63360.0,AED,2024,Q1
-2024-03,Sharjah-Industrial,Labour Cost,71280.0,AED,2024,Q1
-2024-04,Sharjah-Industrial,Labour Cost,71280.0,AED,2024,Q2
-2024-05,Sharjah-Industrial,Labour Cost,71280.0,AED,2024,Q2
-2024-06,Sharjah-Industrial,Labour Cost,71280.0,AED,2024,Q2
+2024-01,Sharjah-Industrial,Labour Cost,55440,AED,2024,Q1
+2024-02,Sharjah-Industrial,Labour Cost,63360,AED,2024,Q1
+2024-03,Sharjah-Industrial,Labour Cost,71280,AED,2024,Q1
+2024-04,Sharjah-Industrial,Labour Cost,71280,AED,2024,Q2
+2024-05,Sharjah-Industrial,Labour Cost,71280,AED,2024,Q2
+2024-06,Sharjah-Industrial,Labour Cost,71280,AED,2024,Q2
 2024-07,Sharjah-Industrial,Labour Cost,81910.84,AED,2024,Q3
 2024-08,Sharjah-Industrial,Labour Cost,83482.02,AED,2024,Q3
 2024-09,Sharjah-Industrial,Labour Cost,65402.51,AED,2024,Q3
 2024-10,Sharjah-Industrial,Labour Cost,67136.67,AED,2024,Q4
 2024-11,Sharjah-Industrial,Labour Cost,58387.6,AED,2024,Q4
 2024-12,Sharjah-Industrial,Labour Cost,49228.89,AED,2024,Q4
-2024-01,Sharjah-Industrial,Parts & Materials,41580.0,AED,2024,Q1
-2024-02,Sharjah-Industrial,Parts & Materials,47520.0,AED,2024,Q1
-2024-03,Sharjah-Industrial,Parts & Materials,53460.0,AED,2024,Q1
-2024-04,Sharjah-Industrial,Parts & Materials,53460.0,AED,2024,Q2
-2024-05,Sharjah-Industrial,Parts & Materials,53460.0,AED,2024,Q2
-2024-06,Sharjah-Industrial,Parts & Materials,53460.0,AED,2024,Q2
+2024-01,Sharjah-Industrial,Parts & Materials,41580,AED,2024,Q1
+2024-02,Sharjah-Industrial,Parts & Materials,47520,AED,2024,Q1
+2024-03,Sharjah-Industrial,Parts & Materials,53460,AED,2024,Q1
+2024-04,Sharjah-Industrial,Parts & Materials,53460,AED,2024,Q2
+2024-05,Sharjah-Industrial,Parts & Materials,53460,AED,2024,Q2
+2024-06,Sharjah-Industrial,Parts & Materials,53460,AED,2024,Q2
 2024-07,Sharjah-Industrial,Parts & Materials,61191.84,AED,2024,Q3
 2024-08,Sharjah-Industrial,Parts & Materials,62635.15,AED,2024,Q3
 2024-09,Sharjah-Industrial,Parts & Materials,49953.3,AED,2024,Q3
 2024-10,Sharjah-Industrial,Parts & Materials,49984.87,AED,2024,Q4
 2024-11,Sharjah-Industrial,Parts & Materials,43789.48,AED,2024,Q4
 2024-12,Sharjah-Industrial,Parts & Materials,36788.37,AED,2024,Q4
-2024-01,Sharjah-Industrial,Overhead,27500.0,AED,2024,Q1
-2024-02,Sharjah-Industrial,Overhead,27500.0,AED,2024,Q1
-2024-03,Sharjah-Industrial,Overhead,27500.0,AED,2024,Q1
-2024-04,Sharjah-Industrial,Overhead,27500.0,AED,2024,Q2
-2024-05,Sharjah-Industrial,Overhead,27500.0,AED,2024,Q2
-2024-06,Sharjah-Industrial,Overhead,27500.0,AED,2024,Q2
+2024-01,Sharjah-Industrial,Overhead,27500,AED,2024,Q1
+2024-02,Sharjah-Industrial,Overhead,27500,AED,2024,Q1
+2024-03,Sharjah-Industrial,Overhead,27500,AED,2024,Q1
+2024-04,Sharjah-Industrial,Overhead,27500,AED,2024,Q2
+2024-05,Sharjah-Industrial,Overhead,27500,AED,2024,Q2
+2024-06,Sharjah-Industrial,Overhead,27500,AED,2024,Q2
 2024-07,Sharjah-Industrial,Overhead,28620.73,AED,2024,Q3
 2024-08,Sharjah-Industrial,Overhead,28420.59,AED,2024,Q3
 2024-09,Sharjah-Industrial,Overhead,29037.06,AED,2024,Q3
 2024-10,Sharjah-Industrial,Overhead,28839.22,AED,2024,Q4
 2024-11,Sharjah-Industrial,Overhead,28597.99,AED,2024,Q4
 2024-12,Sharjah-Industrial,Overhead,28377.44,AED,2024,Q4
-2024-01,Sharjah-Industrial,Marketing,6600.0,AED,2024,Q1
-2024-02,Sharjah-Industrial,Marketing,7920.0,AED,2024,Q1
-2024-03,Sharjah-Industrial,Marketing,15840.0,AED,2024,Q1
-2024-04,Sharjah-Industrial,Marketing,13200.0,AED,2024,Q2
-2024-05,Sharjah-Industrial,Marketing,10560.0,AED,2024,Q2
-2024-06,Sharjah-Industrial,Marketing,9240.0,AED,2024,Q2
+2024-01,Sharjah-Industrial,Marketing,6600,AED,2024,Q1
+2024-02,Sharjah-Industrial,Marketing,7920,AED,2024,Q1
+2024-03,Sharjah-Industrial,Marketing,15840,AED,2024,Q1
+2024-04,Sharjah-Industrial,Marketing,13200,AED,2024,Q2
+2024-05,Sharjah-Industrial,Marketing,10560,AED,2024,Q2
+2024-06,Sharjah-Industrial,Marketing,9240,AED,2024,Q2
 2024-07,Sharjah-Industrial,Marketing,8231.49,AED,2024,Q3
 2024-08,Sharjah-Industrial,Marketing,8234.86,AED,2024,Q3
 2024-09,Sharjah-Industrial,Marketing,13884.92,AED,2024,Q3
