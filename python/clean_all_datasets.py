@@ -2,7 +2,7 @@
 clean_all_datasets.py
 Gulf AutoServ Analytics — Data Cleaning Pipeline
 
-Run this once. Reads from datasets/raw/, writes to datasets/cleaned/.
+
 Each section is clearly labelled. Read the comments — they explain
 the business logic behind every cleaning decision.
 """
